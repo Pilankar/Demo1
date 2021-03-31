@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode url="AdminPortal.aspx" title="Admin Portal" description="Admin Portal page">
+		<siteMapNode url="addArticle.aspx" title="Add Articles" description="Add Articles" />
+		<siteMapNode url="AddCentre.aspx" title="Add Centre" description="Add Centre" />
+	</siteMapNode>
+</siteMap>
